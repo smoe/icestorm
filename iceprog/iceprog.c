@@ -17,7 +17,7 @@
  *
  *  Relevant Documents:
  *  -------------------
- *  http://www.latticesemi.com/~/media/Documents/UserManuals/EI/icestickusermanual.pdf
+ *  iCEstick user manual: http://www.latticesemi.com/view_document?document_id=50701
  *  http://www.micron.com/~/media/documents/products/data-sheet/nor-flash/serial-nor/n25q/n25q_32mb_3v_65nm.pdf
  *  http://www.ftdichip.com/Support/Documents/AppNotes/AN_108_Command_Processor_for_MPSSE_and_MCU_Host_Bus_Emulation_Modes.pdf
  */
